@@ -1,12 +1,3 @@
----
-title: WAS Credential Content Outline
-tags:
-  - iaap
-  - was
-draft: true
-created: 2024-07-09, 18:48
-updated: 2024-08-09 15:38
----
 # WAS Credential Content Outline
 
 ## 1 Creating Accessible Web Solutions (40%)
@@ -26,7 +17,7 @@ updated: 2024-08-09 15:38
 
 ## 2 Identify accessibility issues in web solutions (40%)
  **A.** Interoperability and compatibility issues.
- 
+
  **B.** Identifying guidelines and principles regarding issues (including WCAG 2.1, WAI-ARIA, ATAG, basic concepts, limitations of the specific guidelines, principles, and techniques, what is normative vs. non-normative; what is included in different levels (A, AA, AAA)).
 
 **C.** Testing with assistive technologies (e.g., navigation of screen reader users, headings and landmarks, screen magnifiers, high contrast, using keyboard vs. mouse).
@@ -37,5 +28,5 @@ updated: 2024-08-09 15:38
 
 ## 3 Remediating issues in web solutions (20%)
  **A.** Level of severity and prioritization of issues (e.g., cost benefit; legal risk, user impact, what is the problem, what to focus on first).
- 
+
  **B.** Recommending strategies and/or techniques for fixing issues (i.e., best solution, solution that most widely useful, feasibility of solution, fixing vs. redesign, how to fix it).

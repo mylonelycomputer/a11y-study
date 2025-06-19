@@ -1,12 +1,3 @@
----
-title: WAS Prerequisites
-tags:
-  - iaap
-  - was
-draft: true
-created: 2024-08-09, 12:43
-updated: 2024-08-09 15:38
----
 # WAS Prerequisites
 Hands-on experience and knowledge of programmatic code elements, WCAG 2.1 standards, and contextual implications for end users of assistive technology are all required.
 

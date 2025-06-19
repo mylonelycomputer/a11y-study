@@ -1,11 +1,3 @@
----
-title: Outline
-tags:
-  - meta
-draft: false
-created: 2024-07-09, 18:47
-updated: 2024-08-09 14:40
----
 # Outline
 
 ## 1 Fundamentals

@@ -1,12 +1,3 @@
----
-title: WAS Body of Knowledge Document
-tags:
-  - iaap
-  - was
-draft: true
-created: 2024-08-09, 12:22
-updated: 2024-08-09 14:00
----
 # WAS Body of Knowledge Document
 
 
@@ -72,7 +63,7 @@ updated: 2024-08-09 14:00
 
 #### 1.7.10. Motor
 
-#### 1.7.11. Hearing 
+#### 1.7.11. Hearing
 
 
 ## 2 Identify accessibility issues/problems
