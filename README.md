@@ -9,6 +9,6 @@ Following [Africa Kenyah](https://github.com/codingtherapist)’s [webAccessibil
 - [Devon Persing](https://devonpersing.netlify.app/)
 
 ## Contact
-I can be reached via email at el@guerrero.ph.
+You may reach me via email at el@guerrero.ph or on [Mastodon](https://merveilles.town/@knights), [Bluesky](https://knights.bsky.social/), [Instagram](https://instagram.com/mylonelycomputer), and [LinkedIn](https://www.linkedin.com/in/el-guerrero/).
 
 PGP: `DC4A 9FE1 2992 95F7 0887  D924 FB64 F2D8 0D3D B8FC`
